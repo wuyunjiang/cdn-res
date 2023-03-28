@@ -182,7 +182,7 @@
             return b <= 0 ? (0,
             u.jsx)("span", {
                 className: a,
-                children: void 0 === l ? "soon" : l
+                children: void 0 === l ? l : l
             }) : (0,
             u.jsxs)(u.Fragment, {
                 children: [o || null, p[void 0 === n ? "verbal" : n]({
